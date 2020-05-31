@@ -11,3 +11,6 @@ How to running the project :
 6. open and explore image from folder uji.
 7. running step by step.
 8. done.
+
+presentation project on youtube :
+https://youtu.be/5qttXeVMq10
